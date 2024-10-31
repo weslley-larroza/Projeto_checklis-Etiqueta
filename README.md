@@ -1,7 +1,6 @@
 # Projeto_checklis-Etiqueta
 projeto para retirar o chekclist e etiqueda do exel.
-visual atual, sera atualzado conforme andamento do proejeto.
-![image](https://github.com/user-attachments/assets/f6369bf6-4eb3-42b7-ad7b-7204ec23677b)
-![image](https://github.com/user-attachments/assets/53bd4046-d809-408a-8848-84098b930fba)
-![image](https://github.com/user-attachments/assets/a9677228-4d34-41b3-abfc-99727597c941)
-![image](https://github.com/user-attachments/assets/815b1535-9700-43ec-b98a-97fb0fe9f2f3)
+visual atual, sera atualzado conforme andamento do projeto.
+
+![image](https://github.com/user-attachments/assets/6d64eb6e-5018-4330-bcfe-eabbd40507da)
+![image](https://github.com/user-attachments/assets/bb9186ff-1168-47cc-880c-4dbedfab1225)
