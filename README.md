@@ -1,6 +1,6 @@
 # Projeto_checklis-Etiqueta
 projeto para retirar o chekclist e etiqueda do exel.
-visual atual, sera atualzado conforme andamento do projeto.
+visual atual, sera atualizado conforme andamento do projeto.
 
 
 
